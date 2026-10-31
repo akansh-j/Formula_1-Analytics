@@ -68,6 +68,6 @@ To use a different Tableau Public dashboard, publish it and replace this URL wit
 
 **Akansh Jadam**
 - Tableau Public: [akansh.jadam](https://public.tableau.com/app/profile/akansh.jadam)
-- GitHub: [@<akansh-j>](https://github.com/<akansh-j>)
+- GitHub: [@akansh-j](https://github.com/akansh-j)
 
 ## License
