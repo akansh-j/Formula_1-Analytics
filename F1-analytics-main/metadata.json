@@ -1,0 +1,8 @@
+{
+  "name": "F1 Race Intelligence Dashboard",
+  "description": "Enterprise Formula 1 race intelligence and analytics platform featuring Tableau BI visualizations, driver performance rankings, and live cockpit telemetry feeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
