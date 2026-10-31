@@ -109,7 +109,7 @@ export const EmbeddedTableauDashboard: React.FC = () => {
           </div>
 
           <a
-            href="https://public.tableau.com/app/profile/koushal.patidar/viz/F1Dashboard_17932086992160/Dashboard1"
+            href="https://public.tableau.com/app/profile/akansh.jadam/viz/F1Dashboard_17934499434380/Dashboard1"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2.5 rounded-xl bg-zinc-900 border border-white/10 hover:border-[#ef233c] text-zinc-400 hover:text-white transition-all flex items-center gap-1.5 text-xs font-mono-telemetry"
@@ -171,7 +171,7 @@ export const EmbeddedTableauDashboard: React.FC = () => {
               </div>
 
               <a
-                href="https://public.tableau.com/app/profile/koushal.patidar/viz/F1Dashboard_17932086992160/Dashboard1"
+                href="https:https://public.tableau.com/app/profile/akansh.jadam/viz/F1Dashboard_17934499434380/Dashboard1"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-[#ef233c] hover:underline flex items-center gap-1"
@@ -201,7 +201,7 @@ export const EmbeddedTableauDashboard: React.FC = () => {
                 style={{ position: 'relative', width: '100%', minHeight: '850px' }}
               >
                 <noscript>
-                  <a href="https://public.tableau.com/app/profile/koushal.patidar/viz/F1Dashboard_17932086992160/Dashboard1">
+                  <a href="https://public.tableau.com/app/profile/akansh.jadam/viz/F1Dashboard_17934499434380/Dashboard1">
                     <img
                       alt="F1 Race Intelligence Dashboard"
                       src="https://public.tableau.com/static/images/F1/F1Dashboard_17932086992160/Dashboard1/1_rss.png"
